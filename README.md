@@ -20,12 +20,14 @@ La definición y las características de la aplicación son las siguientes:
 ## Ejecución
 
 Para poder poner en marcha la aplicación hay que ejecutar los siguientes comandos:
-- go run .\main.go server
-- go run .\main.go client
+- `go run .\main.go server`
+- `go run .\main.go client`
 
 Antes hay que haber creado la base de datos en el entorno que se prefiera y debe estar activa.
 
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 # Social Network with Go
 
